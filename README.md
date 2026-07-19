@@ -66,7 +66,7 @@ if not is_claimed:
 This project is fully open source. We encourage and welcome contributions from the community to help improve, optimize, and extend the ecosystem. Feel free to open issues or submit pull requests!
 
 ## 🪪 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/AuraZod/Quo/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
 ---
 
