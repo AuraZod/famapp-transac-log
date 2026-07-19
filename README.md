@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <br/>
-<img src="../../assets/transac_log_banner.png" width="100%" alt="famapp-transac-log Illustration" />
+<img src="assets/transac_log_banner.png" width="100%" alt="famapp-transac-log Illustration" />
 
 </div>
 
